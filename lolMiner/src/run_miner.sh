@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-PROFILE=EXAMPLE1	
+PROFILE=BTH	
 
 #################################
 ##  End of user-editable part  ##

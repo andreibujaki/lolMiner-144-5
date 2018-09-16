@@ -9,37 +9,11 @@
 		"COIN" : "BTG",
 		"POOLS" : [
 			{
-			 "POOL" : "192.168.1.6",
+			 "POOL" : "pool.bithereum.network",
 			 "PORT" : "3857",
 			 "USER" : "mfbaREH3tMNNKwEQ9HMoC7cnVVJ11XoXWM.lolMiner",
 			 "PASS" : "x"
 		  }
-		]
-	},
-
-	"BTCZ" :
-	{
-		"COIN" : "BTCZ",
-		"POOLS" : [
-			{"POOL" : "mine-btcz-euro.equipool.1ds.us",
-			 "PORT" : "50061",
-			 "USER" : "t1dbQvbohSUAGE6dZpUYru7e18SCNVipVXY.lolMiner",
-			 "PASS" : "x"}
-		]
-	},
-
-	"BTG" :
-	{
-		"COIN" : "BTG",
-		"POOLS" : [
-			{"POOL" : "btg-eu.coinblockers.com",
-			 "PORT" : "5555",
-			 "USER" : "GV5SfFk6EX2PXVopwRHepaVAEPxJxhKceH.lolMiner",
-			 "PASS" : "x"},
-			{"POOL" : "btg.suprnova.cc",
-			 "PORT" : "8866",
-			 "USER" : "Lolliedieb.BitcoinGold",
-			 "PASS" : "x"}
 		]
 	}
 }

@@ -4,7 +4,7 @@
 ## Begin of user-editable part ##
 #################################
 
-PROFILE=BTG	
+PROFILE=BTH	
 
 #################################
 ##  End of user-editable part  ##

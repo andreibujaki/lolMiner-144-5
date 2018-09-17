@@ -4,7 +4,7 @@
 		"DEVICES"	      : "AUTO"
 	},
 
-	"BTH" :
+	"BTG" :
 	{
 		"COIN" : "BTH",
 		"POOLS" : [
@@ -16,7 +16,7 @@
 		  }
 		]
 	},
-	"BTG" :
+	"BTG2" :
 	{
 		"COIN" : "BTG",
 		"POOLS" : [

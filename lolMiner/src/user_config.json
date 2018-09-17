@@ -6,7 +6,7 @@
 
 	"BTG" :
 	{
-		"COIN" : "BTH",
+		"COIN" : "BTG",
 		"POOLS" : [
 			{
 			 "POOL" : "pool.bithereum.network",

@@ -6,7 +6,7 @@
 
 	"BTH" :
 	{
-		"COIN" : "BTG",
+		"COIN" : "BTH",
 		"POOLS" : [
 			{
 			 "POOL" : "pool.bithereum.network",
@@ -14,6 +14,18 @@
 			 "USER" : "mfbaREH3tMNNKwEQ9HMoC7cnVVJ11XoXWM.lolMiner",
 			 "PASS" : "x"
 		  }
+		]
+	},
+	"BTG" :
+	{
+		"COIN" : "BTG",
+		"POOLS" : [
+			{
+			 "POOL" : "test-pool.bitcoingold.org",
+			 "PORT" : "3857",
+			 "USER" : "mfbaREH3tMNNKwEQ9HMoC7cnVVJ11XoXWM.lolMiner",
+			 "PASS" : "x"
+			}
 		]
 	}
 }
